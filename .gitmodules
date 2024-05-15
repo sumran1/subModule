@@ -4,3 +4,39 @@
 [submodule "fast-cpp-csv-parser"]
 	path = fast-cpp-csv-parser
 	url = https://github.com/ben-strasser/fast-cpp-csv-parser.git
+[submodule "benchmark"]
+	path = benchmark
+	url = https://github.com/google/benchmark
+[submodule "googletest"]
+	path = googletest
+	url = https://github.com/google/googletest
+[submodule "GSL"]
+	path = GSL
+	url = https://github.com/microsoft/GSL
+[submodule "json"]
+	path = json
+	url = https://github.com/nlohmann/json
+[submodule "arrow"]
+	path = arrow
+	url = https://github.com/apache/arrow.git
+[submodule "blkin"]
+	path = blkin
+	url = https://github.com/ceph/blkin
+[submodule "redis"]
+	path = redis
+	url = https://github.com/boostorg/redis.git
+[submodule "c-ares"]
+	path = c-ares
+	url = https://github.com/ceph/c-ares.git
+[submodule "isa-l_crypto"]
+	path = isa-l_crypto
+	url = https://github.com/intel/isa-l_crypto
+[submodule "dmclock"]
+	path = dmclock
+	url = https://github.com/ceph/dmclock.git
+[submodule "gf-complete"]
+	path = gf-complete
+	url = https://github.com/ceph/gf-complete.git
+[submodule "fmt"]
+	path = fmt
+	url = https://github.com/ceph/fmt.git
