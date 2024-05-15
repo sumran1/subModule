@@ -40,3 +40,6 @@
 [submodule "fmt"]
 	path = fmt
 	url = https://github.com/ceph/fmt.git
+[submodule "civetweb"]
+	path = civetweb
+	url = https://github.com/civetweb/civetweb.git
